@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_site-8B9BFF?style=for-the-badge&logo=vercel&logoColor=black)](https://tiya-portfolio-e8ojm7pis-tiya-1s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_site-8B9BFF?style=for-the-badge&logo=vercel&logoColor=black)](https://tiya-portfolio-flame.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiya-jain-435467362)
 
